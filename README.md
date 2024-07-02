@@ -11,7 +11,7 @@
             <strong>About Notebook:</strong> 🧠 Integrating LangChain with HuggingFace and FAISS for Advanced NLP Applications
         </p>
         <p style="color: #27AE60; font-size: 16px; font-style: italic; margin: 10px 0;">
-            This notebook delves into the advanced techniques of fine-tuning and Parameter-Efficient Fine-Tuning (PEFT) using QLoRA on the LLaMA 3 model. Designed for data science enthusiasts and professionals, it offers hands-on experience and practical insights to enhance model performance with efficient use of computational resources. Join the journey to master these cutting-edge techniques and elevate your machine learning projects.
+            This notebook explores building intelligent conversational agents with LangChain. It covers prompt engineering, chat model creation, document retrieval with FAISS, and text summarization using transformer models. Through practical examples, you'll learn to integrate these components into a context-aware chatbot system, providing a streamlined guide to developing advanced NLP applications.
         </p>
         <h2 style="color: red; margin-top: 15px; font-size: 28px;">Contact Information</h2>
         <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
