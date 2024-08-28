@@ -5,7 +5,7 @@
             I'm Mustafa Shoukat, a Generative Expert. I'm in the world of LLMs and exploring various concepts of Langchain and techniques to enhance my skills. In this notebook, I'll unlock the potential of Langchain, Langchain Prompting Techniques, and ChatModels.
         </p>
         <p style="color: #000000; font-size: 16px; font-style: italic; margin: 10px 0;">
-            "I am just a humble data practitioner. I make mistakes and I have blind spots. If you notice things I can improve or if you just want to chat, please feel free to DM me or connect :)"
+            "I am just a humble data practitioner. If you notice things I can improve or if you just want to chat, please feel free to DM me or connect :)"
         </p>
         <p style="color: #2980B9; font-size: 16px; font-style: italic; margin: 10px 0;">
             <strong>About Notebook:</strong> 🧠 Integrating LangChain with HuggingFace and FAISS for Advanced NLP Applications
